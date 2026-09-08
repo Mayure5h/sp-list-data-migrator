@@ -1,4 +1,4 @@
-# SharePoint List Migrator
+# SharePoint List Data Migrator
 
 Browser-console scripts to export custom-column data from one or more SharePoint
 lists on a source tenant, and import that data into matching lists on a target
